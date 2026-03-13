@@ -1,0 +1,4 @@
+﻿  Math.cpp
+D:\Ioana\Lab3\Lab3\Math.cpp(58,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Ioana\Lab3\Lab3\Math.cpp(64,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Ioana\Lab3\Lab3\Math.cpp(65,5): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
